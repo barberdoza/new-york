@@ -1,2 +1,0 @@
-# fetch_data.py only uses the Python standard library (urllib, json).
-# This file is kept for convenience / clarity and future use.
